@@ -34,7 +34,8 @@ class MainActivity : AppCompatActivity() {
                 eTextView.setText("Please make sure you insert a value ")
             }
             else {
-
+                 //
+                // variables
                 var value1: Int = Integer.parseInt(getvalue)
 
                 // When statement
